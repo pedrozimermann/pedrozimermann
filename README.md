@@ -1,6 +1,6 @@
 ## Olá! Me chamo Pedro Henrique Zimermann de Paiva.
 
-Atualmente estudante na área de desenvolvimento web,
+Atualmente estudando na área de desenvolvimento web,
 📖 - JavaScript, HTML e CSS.
 ## 
 
