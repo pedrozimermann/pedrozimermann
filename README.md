@@ -3,7 +3,7 @@
 Atualmente estudando na área de Desenvolvimento Web e Teste de Sistemas.
 ## 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozimermann&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozimermann&show_icons=true&theme=graywhite)
 
 <div style="display: inline_block"><br>
  
