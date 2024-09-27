@@ -1,6 +1,6 @@
 ## Olá! Me chamo Pedro Henrique Zimermann de Paiva.
 
-Atualmente estudando na área de Desenvolvimento Web e Teste de Sistemas.
+Atualmente estudando na área de Desenvolvimento Web.
 ## 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozimermann&show_icons=true&theme=graywhite)
