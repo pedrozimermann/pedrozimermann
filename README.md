@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, Javascript e PHP.
+  👾 Linguagens: HTML, CSS, Javascript e PHP.
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Informações para contato abaixo: ⤵️
+  ✉️ Informações para contato abaixo: ⤵️
 </p>
 
 <p align="left">
